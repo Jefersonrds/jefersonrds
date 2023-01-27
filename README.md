@@ -3,13 +3,15 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
+- 📝 Eu escrevo artigos no site: [https://medium.com/@jefersonrds](https://medium.com/@jefersonrds)
+
 - 💬 Me pergunte sobre **SQL, Power BI, Exel e Python**
 
 - 📫 Você me acha através do e-mail: **Contatojefersonrds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/contatojefersonrds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contatojefersonrds/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/contatojefersonrds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contatojefersonrds/" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffonego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffonego" height="30" width="40" /></a>
 </p>
 
