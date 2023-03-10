@@ -5,7 +5,7 @@
 
 - 📝 Eu escrevo artigos no site: [https://medium.com/@jefersonrds](https://medium.com/@jefersonrds)
 
-- 💬 Me pergunte sobre **SQL, Power BI, Exel e Python**
+- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
 
 - 📫 Você me acha através do e-mail: **Contatojefersonrds@gmail.com**
 
