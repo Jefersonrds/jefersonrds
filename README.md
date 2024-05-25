@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Jeferson Rodrigues</h1>
 <h3 align="center">Apaixonado por análise de dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou aprendendo **SQL e Python*
 
 - 📝 Eu escrevo artigos no site: [https://medium.com/@jefersonrds](https://medium.com/@jefersonrds)
 
