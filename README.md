@@ -1,19 +1,15 @@
-<h1 align="center">Olá 👋, Eu sou o Jeferson Rodrigues</h1>
-<h3 align="center">Apaixonado por análise de dados.</h3>
+<h1 align="center">Fala jovem, me chamo Jeferson Rodrigues</h1>
+<h3 align="center">Apaixonado por análise de dados e dogs. Espero poder mostrar aqui os meus projetos e atividades relacionadas a tecnologia</h3>
+<h6 align="left"><i>let's bora!<i></h6>
 
-- 🌱 Atualmente estou aprendendo **SQL e Python**
+![Jeferson GitHub status](https://github-readme-stats.vercel.app/api?username=Jefersonrds&show_icons=true&theme=great-gatsby)
 
-- 📝 Eu escrevo artigos no site: [https://medium.com/@jefersonrds](https://medium.com/@jefersonrds)
+##
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
-
-- 📫 Você me acha através do e-mail: **Contatojefersonrds@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/contatojefersonrds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contatojefersonrds/" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffonego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffonego" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+         
+</div>
